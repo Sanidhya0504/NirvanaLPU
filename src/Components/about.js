@@ -19,7 +19,7 @@ function About() {
         style={{ backgroundImage: `url(${background})` }}
       >
         <br />
-        <h3>MEET OUR LEADRES</h3>
+        <h3>MEET OUR LEADERS</h3>
         <br />
 
         <img
