@@ -21,7 +21,7 @@ export class Card extends Component {
               <img
                 style={{ height: "300px" }}
                 className="d-block w-100"
-                src={"https://wallpaperaccess.com/full/2040735.jpg"}
+                src={"https://wallpaperaccess.com/full/2040737.jpg"}
               />
               <Carousel.Caption>
                 <h3>Second Demo</h3>
@@ -31,7 +31,7 @@ export class Card extends Component {
               <img
                 style={{ height: "300px" }}
                 className="d-block w-100"
-                src={"https://wallpaperaccess.com/full/2040735.jpg"}
+                src={"https://wallpaperaccess.com/full/2040740.jpg"}
               />
               <Carousel.Caption>
                 <h3>Third Demo</h3>
