@@ -25,8 +25,7 @@ function About() {
         <img
           className="lead_pic"
           style={{ width: 275, height: 250, borderRadius: 200 }}
-          src={
-            "https://humornama.com/wp-content/uploads/2021/01/150-Rupiya-Dega-Meme-Template-of-Kachra-Seth-1024x576.jpg"
+          
           }
         />
         <br />
