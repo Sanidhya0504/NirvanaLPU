@@ -1,5 +1,8 @@
 .buttons {
   padding-left: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
   color: black;
+  font-size: 20px;
   text-decoration: none;
 }

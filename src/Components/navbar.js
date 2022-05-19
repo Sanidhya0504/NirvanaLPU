@@ -6,7 +6,9 @@ function Navigation() {
     <div className="App">
       <Navbar collapseOnSelect expand="lg" bg="#fff" variant="light">
         <Container>
-          <Navbar.Brand href="/home">Nirvana</Navbar.Brand>
+          <Link className="buttons" to="/home">
+            Nirvana
+          </Link>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto"></Nav>
