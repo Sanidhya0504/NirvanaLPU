@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/NirvanaLPU/static/css/main.21fd2c42.css",
-    "main.js": "/NirvanaLPU/static/js/main.a1a065b6.js",
+    "main.css": "/NirvanaLPU/static/css/main.9992a0b8.css",
+    "main.js": "/NirvanaLPU/static/js/main.dd7e02f9.js",
     "static/js/787.182646ad.chunk.js": "/NirvanaLPU/static/js/787.182646ad.chunk.js",
     "static/media/event_bg.png": "/NirvanaLPU/static/media/event_bg.a449a71b0c65d9f3ea54.png",
     "static/media/footer.png": "/NirvanaLPU/static/media/footer.ccaffd40d13c6ee8003e.png",
     "static/media/nirvana_bg_2.png": "/NirvanaLPU/static/media/nirvana_bg_2.7a3a430442ab03f4048f.png",
     "index.html": "/NirvanaLPU/index.html",
-    "main.21fd2c42.css.map": "/NirvanaLPU/static/css/main.21fd2c42.css.map",
-    "main.a1a065b6.js.map": "/NirvanaLPU/static/js/main.a1a065b6.js.map",
+    "main.9992a0b8.css.map": "/NirvanaLPU/static/css/main.9992a0b8.css.map",
+    "main.dd7e02f9.js.map": "/NirvanaLPU/static/js/main.dd7e02f9.js.map",
     "787.182646ad.chunk.js.map": "/NirvanaLPU/static/js/787.182646ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21fd2c42.css",
-    "static/js/main.a1a065b6.js"
+    "static/css/main.9992a0b8.css",
+    "static/js/main.dd7e02f9.js"
   ]
 }
