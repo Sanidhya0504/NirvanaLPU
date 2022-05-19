@@ -22,12 +22,6 @@ function About() {
         <h3>MEET OUR LEADRES</h3>
         <br />
 
-        <img
-          className="lead_pic"
-          style={{ width: 275, height: 250, borderRadius: 200 }}
-          
-          }
-        />
         <br />
         <h3>150 Rupiya Dega</h3>
         <br />
