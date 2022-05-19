@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NirvanaLPU/static/css/main.f226ab4d.css",
-    "main.js": "/NirvanaLPU/static/js/main.50e38363.js",
+    "main.js": "/NirvanaLPU/static/js/main.b54f38b1.js",
     "static/js/787.182646ad.chunk.js": "/NirvanaLPU/static/js/787.182646ad.chunk.js",
     "static/media/event_bg.png": "/NirvanaLPU/static/media/event_bg.a449a71b0c65d9f3ea54.png",
     "static/media/blank_bg.png": "/NirvanaLPU/static/media/blank_bg.d1117001399233b8eb63.png",
@@ -10,11 +10,11 @@
     "static/media/logo_transp.png": "/NirvanaLPU/static/media/logo_transp.f694f13b8eec1aed21ea.png",
     "index.html": "/NirvanaLPU/index.html",
     "main.f226ab4d.css.map": "/NirvanaLPU/static/css/main.f226ab4d.css.map",
-    "main.50e38363.js.map": "/NirvanaLPU/static/js/main.50e38363.js.map",
+    "main.b54f38b1.js.map": "/NirvanaLPU/static/js/main.b54f38b1.js.map",
     "787.182646ad.chunk.js.map": "/NirvanaLPU/static/js/787.182646ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f226ab4d.css",
-    "static/js/main.50e38363.js"
+    "static/js/main.b54f38b1.js"
   ]
 }
