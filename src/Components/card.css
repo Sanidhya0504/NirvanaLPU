@@ -27,4 +27,7 @@
   .slider_text {
     margin: auto;
   }
+  .card_height {
+    max-height: 220px;
+  }
 }
