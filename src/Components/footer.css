@@ -1,0 +1,12 @@
+.footer {
+  height: 300px;
+  background-size: cover;
+  opacity: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.line {
+  width: 50%;
+}

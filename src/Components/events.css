@@ -1,0 +1,10 @@
+.event_back {
+  height: 92vh;
+  background-size: cover;
+  background-position: center;
+  opacity: 60%;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
