@@ -3,3 +3,23 @@
   opacity: 50%;
   width: 100%;
 }
+.special_head {
+  font-size: 25px;
+  padding: 20px;
+}
+.bottom_text {
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 25px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+@media (max-width: 1000px) {
+  .special_head {
+    font-size: 17px;
+  }
+  .bottom_text {
+    font-size: 17px;
+  }
+}

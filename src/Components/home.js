@@ -7,6 +7,14 @@ function Home() {
     <div className="App">
       <Nav></Nav>
       <img className="bg_image" src={require("./nirvana_bg_2.png")} />
+      <br />
+      <br />
+      <br />
+      <h3 className="special_head">
+        Specializing in the creation of exceptional events, we design, plan and
+        manage every project from conception to execution.{" "}
+      </h3>
+      <br />
       <div className="slider_event">
         <div className="slider_one">
           <Card></Card>
@@ -29,6 +37,12 @@ function Home() {
           </p>
         </div>
       </div>
+      <p className="bottom_text">
+        Our group of talented students understands that breakthrough ideas are
+        only as good as the discipline supporting them. At Nirvana we believe
+        that there is a sublime connection between the mastery of logistics and
+        the creation of astonishment.
+      </p>
       <Footer></Footer>
     </div>
   );
