@@ -22,6 +22,13 @@ function About() {
         <h3>MEET OUR LEADRES</h3>
         <br />
 
+        <img
+          className="lead_pic"
+          style={{ width: 275, height: 250, borderRadius: 200 }}
+          src={
+            "https://humornama.com/wp-content/uploads/2021/01/150-Rupiya-Dega-Meme-Template-of-Kachra-Seth-1024x576.jpg"
+          }
+        />
         <br />
         <h3>150 Rupiya Dega</h3>
         <br />
