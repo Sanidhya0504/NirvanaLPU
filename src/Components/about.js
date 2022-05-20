@@ -14,11 +14,13 @@ function About() {
         connect to audiences through creative storytelling and thoughtful,
         purpose-driven engagement.
       </p>
+      {/*
       <div
         className="lead_banner"
         style={{ backgroundImage: `url(${background})` }}
       >
         <br />
+        
         <h3>MEET OUR LEADERS</h3>
         <br />
 
@@ -32,7 +34,8 @@ function About() {
         <br />
         <h3>150 Rupiya Dega</h3>
         <br />
-      </div>
+        
+        </div>*/}
       <hr />
       <h3>WHAT WE DO</h3>
       <br />
