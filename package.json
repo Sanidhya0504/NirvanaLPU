@@ -1,7 +1,7 @@
 {
   "name": "nirvana",
   "version": "0.1.0",
-  "homepage": "https://sanidhya0504.github.io/NirvanaLPU/",
+  "homepage": "https://nirvana.org.in/",
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
