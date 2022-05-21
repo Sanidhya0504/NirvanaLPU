@@ -1,11 +1,14 @@
 import Nav from "./navbar.js";
 import Footer from "./footer.js";
 import Logo from "./logo_transp.png";
-import background from "./blank_bg.png";
+import background from "./transparent_bg.png";
 import "./about.css";
 function About() {
   return (
-    <div className="App">
+    <div
+      className="about_bg App"
+      style={{ backgroundImage: `url(${background})` }}
+    >
       <Nav></Nav>
       <img className="nirvana_logo" src={Logo} />
       <p className="about_text">
